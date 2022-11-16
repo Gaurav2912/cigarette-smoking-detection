@@ -6,4 +6,5 @@ visit video and ppt that I have uploded
 
 This model is trained on 1000 smoking images
 
-![smoking_img](https://user-images.githubusercontent.com/73479133/202274627-fe40abd1-aaa2-4c26-b846-778ed1c3e0e0.jpg)
+
+![Screenshot_10](https://user-images.githubusercontent.com/73479133/202274933-429d334d-eb2d-4d85-8417-a6874386219a.png)
