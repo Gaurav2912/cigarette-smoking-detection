@@ -1,4 +1,4 @@
-# cigarette-smoking-detection
+# cigarette-smoking-detection-Using YOLO V-7
 
 cigarette-smoking-detection using custome dataset
 
